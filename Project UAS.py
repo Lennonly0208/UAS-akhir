@@ -1,1 +1,2 @@
-print ("Tugas UAS Akhir")
+print ("Tugas UAS Akhir") 
+print 
