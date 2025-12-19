@@ -4,3 +4,4 @@ w = int(input("Nilai 2 : "))
 
 jum = p * w
 print(jum)
+
