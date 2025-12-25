@@ -12,10 +12,9 @@ print("========== FAKTUR TAGIHAN ==========\n")
 print("No Faktur : 00000456\n")
 
 print("Pembeli : SAMPLE INDONESIA, PT.")
-print("Nama    : Mr. Dimas Prasetyo")
+print("Nama    : .....................")
 print("Alamat  : DEUTSCHE BANK BUILDING LEVEL 15B SUITE 50")
 print("          JL. IMAM BONJOL NO.60 JAKARTA PUSAT 10221")
-print("          INDONESIA")
 
 p = int(input("Nilai 1 : "))
 w = int(input("Nilai 2 : "))
