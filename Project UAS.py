@@ -1,13 +1,28 @@
 print ("Tugas UAS Akhir") 
+
+
+print("PT. SAMPLE INDONESIA")
+print("Jl. Jend Sudirman No.43")
+print("Jakarta Utara 14330")
+print("Telp. (021) 669 6666")
+print("Fax.  (021) 6669 5566\n")
+
+print("========== FAKTUR TAGIHAN ==========\n")
+
+print("No Faktur : 00000456\n")
+
+print("Pembeli : SAMPLE INDONESIA, PT.")
+print("Nama    : .....................")
+print("Alamat  : DEUTSCHE BANK BUILDING LEVEL 15B SUITE 50")
+print("          JL. IMAM BONJOL NO.60 JAKARTA PUSAT 10221")
+
 p = int(input("Nilai 1 : "))
 w = int(input("Nilai 2 : "))
 
 jum = p * w
 print(jum)
 
-<<<<<<< HEAD
 
-=======
 data = [
     {"unit": 1, "harga": 500}
 ]
@@ -20,7 +35,7 @@ ppn = total * 0.10
 print("Total :", total)
 print("PPN   :", ppn)
 print("Bayar :", total + ppn)
->>>>>>> 56fc954c7f5f26a29f5bb50f248b5e14b2121e57
+
 
 faktur = {
     "perusahaan": {
@@ -32,5 +47,6 @@ faktur = {
         "no": "00000456",
         "tanggal": "11 Februari 2013",
         "due_date": "11 Februa_
+
 
 
